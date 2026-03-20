@@ -1,2 +1,3 @@
-# flex-monitoring-tool-udtk
-A application monitoring and alerting tool for modern development workflows
+# Flex Monitoring Tool Udtk
+
+A application monitoring and alerting tool for modern development workflows.
